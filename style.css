@@ -23,7 +23,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100vh;
+    height: 80vh;
 }
 .header{
     padding: 3rem 2rem;
@@ -80,7 +80,7 @@ body{
     left: 0;
     background-color: var(--Black);
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     visibility: hidden;
 }    
 .show{
@@ -123,7 +123,7 @@ body{
     border: 1px solid #fff;
     color: var(--White);
     text-transform: uppercase;
-    margin: 50% 2rem;
+    margin: 40% 2rem;
 }
 .hero-text h1{
     font-size: 4.2rem;
